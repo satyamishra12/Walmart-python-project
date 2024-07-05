@@ -1,1 +1,1 @@
-# Walmart-python-project
+This project provided a detailed analysis of Walmart's sales data, identifying key insights and focus areas to improve sales strategies. Additionally, it explored the user experience of the Jar app and proposed actionable recommendations to enhance user engagement with the 'Spin to Win' feature.
